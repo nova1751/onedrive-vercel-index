@@ -56,8 +56,8 @@ module.exports = {
       link: 'https://github.com/nova1751',
     },
     {
-      name: 'Blog',
-      link: 'https://refrain.cf',
+      name: 'Telegram',
+      link: 'https://t.me/nova1751',
     },
   ],
 
