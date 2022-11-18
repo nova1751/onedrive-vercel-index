@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://github.com/nova1751',
     },
     {
-      name: '希亚的西红柿的博客小站',
+      name: 'Blog',
       link: 'https://refrain.cf',
     },
   ],
