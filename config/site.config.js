@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<p><a target="_blank" style="margin-inline:5px" href="https://github.com/" title="本项目由GitHub托管"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub"></a><a target="_blank" style="margin-inline:5px" href="https://vercel.com/" title="本项目部署至Vercel"><img src="https://img.shields.io/badge/Vercel-Hosted-blue?style=social&logo=Vercel"></a></br>Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. </p>' ,
+    '<object data="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub&link=https://github.com/"></object><object data="https://img.shields.io/badge/Vercel-Hosted-blue?style=social&logo=Vercel&link=https://vercel.com/"></object>Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>.' ,
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
