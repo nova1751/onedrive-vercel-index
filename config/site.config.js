@@ -20,7 +20,7 @@ module.exports = {
   title: "希亚的西红柿的资源小站",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/',
+  baseDirectory: '/Public',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -59,6 +59,7 @@ module.exports = {
       name: 'Telegram',
       link: 'https://t.me/nova1751',
     },
+
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
