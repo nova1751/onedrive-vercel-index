@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "希亚的西红柿的资源小站",
+  title: '希亚的西红柿的资源小站',
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<span style="text-align:center;font-size:15px;display:block;margin:10px">© 2022-2023 希亚的西红柿</span><p align="center"><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://github.com/" title="本项目由GitHub托管"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub"></a><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://vercel.com/" title="本项目部署至Vercel"><img src="https://img.shields.io/badge/Vercel-Hosted-blue?style=social&logo=Vercel"></a><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://www.cloudflare.com/" title="本项目由Cloudflare代理"><img src="https://img.shields.io/badge/Proxy-Cloudflare-orange?style=flat&logo=cloudflare"></a></p><span style="text-align:center;font-size:14px;display:block;margin:5px">Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>.</span>' ,
+    '<span style="text-align:center;font-size:15px;display:block;margin:10px">© 2022-2024 希亚的西红柿</span><p align="center"><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://github.com/" title="本项目由GitHub托管"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub"></a><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://vercel.com/" title="本项目部署至Vercel"><img src="https://img.shields.io/badge/Vercel-Hosted-blue?style=social&logo=Vercel"></a><a target="_blank" style="display:inline-block;margin-inline:5px" href="https://www.cloudflare.com/" title="本项目由Cloudflare代理"><img src="https://img.shields.io/badge/Proxy-Cloudflare-orange?style=flat&logo=cloudflare"></a></p><span style="text-align:center;font-size:14px;display:block;margin:5px">Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>.</span>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -59,7 +59,6 @@ module.exports = {
       name: 'Telegram',
       link: 'https://t.me/nova1751',
     },
-
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
